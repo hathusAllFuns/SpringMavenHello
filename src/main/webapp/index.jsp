@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hola mundo!!! Mejor asín</h2>
+<h2>Hola mundo!!! Esto es una prueba.</h2>
 </body>
 </html>
